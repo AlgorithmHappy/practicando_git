@@ -3,3 +3,4 @@ cambio desde github
 cambio en la rama principal
 no se que poner
 se creo el conflicto? rama practicando3txt
+cambio hecho en local de la rama_creada_en_github
