@@ -2,3 +2,4 @@ primer cambio de primera rama
 otro cambio
 otro mas
 cuarta linea
+Cambio desde github o si fuera un equipo el cambio seria desde otro compañero
